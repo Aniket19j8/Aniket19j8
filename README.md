@@ -41,7 +41,7 @@
 
 ## 🌐 Connect with Me
 
-[Portfolio](https://aniket19j8.github.io) • [LinkedIn](https://www.linkedin.com/in/aniket-deshpande19) • [Email](mailto:aniketdeshpande900@gmail.com)
+[Portfolio](https://aniketdeshpande.me) • [LinkedIn](https://www.linkedin.com/in/aniket-deshpande19) • [Email](mailto:aniketdeshpande900@gmail.com)
 
 ---
 
