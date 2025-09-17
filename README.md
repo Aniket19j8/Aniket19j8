@@ -112,7 +112,7 @@
 
 ## 🌐 Connect with Me
 
-[Portfolio](https://aniketdeshpande.me) • [LinkedIn](https://www.linkedin.com/in/aniket-deshpande19) • [Email](mailto:aniketdeshpande900@gmail.com)
+[Portfolio](https://aniketdeshpande.me) • [LinkedIn](https://www.linkedin.com/in/aniket-rajendra-deshpande-88750b257/) • [Email](adeshp61@asu.edu)
 
 ---
 
