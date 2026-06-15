@@ -15,7 +15,7 @@
 |---------|-------------|--------------|
 | **Fin-RAG** | Financial RAG system on SEC filings + market news | [Live UI](https://anik1970-llm-nlp-ui.hf.space) \| [API](https://anik1970-llm-nlp-api.hf.space) \| [GitHub](https://github.com/Aniket19j8/fin-rag) |
 | **Speech Emotion Recognition** | MFCC + CNN model to classify emotions from audio | [Demo](https://your-demo-link) \| [GitHub](https://github.com/Aniket19j8/ser-emotion) |
-| **Stockio** | Time-series forecasting web app with multi-ticker support | [Live](https://anik1970-stockio.hf.space) \| [GitHub](https://github.com/Aniket19j8/stockio) |
+| **Stockio** | Time-series forecasting web app with multi-ticker support | [Live](https://stockio-financial-analyticsgit-s7wlmobbjt5calayjtw75b.streamlit.app/) \| [GitHub](https://github.com/Aniket19j8/stockio) |
 | **Adaptive Learning Analytics Dashboard** | Learner engagement and psychometric insights for EdPlus *(ongoing)* | [GitHub](https://github.com/Aniket19j8/adaptive-analytics) |
 
 ---
